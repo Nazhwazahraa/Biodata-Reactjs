@@ -20,7 +20,7 @@ function App() {
         <div className="home-text">
           <p className="hello">HELLO, I'M</p>
 
-          <h1>Nazhwa Sava Azahra</h1>
+          <h1>Nazhwa Sava Azahra!</h1>
 
           <p>
             Mahasiswa Pendidikan Ilmu Komputer
